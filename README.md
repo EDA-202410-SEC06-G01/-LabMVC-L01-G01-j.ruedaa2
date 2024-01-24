@@ -34,7 +34,7 @@ The students edit this section to add their names, Uniandes emails, and specify 
 
 1. Juan Rueda, 202123597, <j.ruedaa2@uniandes.edu.co>
 2. Juan David Suarez, 202223801, <jd.suarezm1@uniandes.edu.co>
-3. Matías Bermúdez, , <>
+3. Matías Bermúdez, 202121950, <m.bermudezc2@uniandes.edu.co>
 
 [Back to top](#sample-mvc)
 
